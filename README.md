@@ -17,6 +17,9 @@ A curated list of awesome things and projects built by Algerian developpers.
 ## Applications
 - [Alfanous](https://github.com/Alfanous-team/alfanous) - Alfanous is an Arabic search engine API provides the simple and advanced search in Quran
 - [Ji3an](https://github.com/Taybou/JiaanApp) - Ji3an is a mobile application for food recipes and cart shopping
+- [Timgad](https://github.com/OpenDZ/timgad) - Timgad is a kernel Linux Security Module that collects per process and system-wide security protections that are not handled by the core kernel itself
+- [Nmap](https://nmap.org/) - Nmap (Network Mapper) is a security scanner. It is used to discover hosts and services on a computer network
+- [systemd](https://github.com/systemd/) - systemd is a suite of basic building blocks for a Linux system
 
 ## Libraries and Frameworks
 - JavaScript
